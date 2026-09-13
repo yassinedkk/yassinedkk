@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yassine Zeamari — Data Scientist</title>
+  <desc id="desc">Data Scientist specialising in statistical modelling and machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071525"/>
+      <stop offset="55%" stop-color="#102a43"/>
+      <stop offset="100%" stop-color="#07525a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="32%" r="65%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".20">
+    <circle cx="1050" cy="50" r="115"/>
+    <circle cx="1050" cy="50" r="175"/>
+    <path d="M790 265 C860 205 905 245 965 193 S1080 195 1195 95"/>
+  </g>
+  <text x="62" y="112" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">YASSINE ZEAMARI</text>
+  <text x="64" y="165" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">DATA SCIENTIST</text pencils="none"/>
+  < Fly/>
+  <text x=" prato"/>
+  <text x=" Bray"/>
+  <text x="64" y=" Global"/>
+  <text x="64" y="_usr"/>
+  <text x="64" y="nub"/>
+  <text x="64" y="214" fillzier="none"/>
+  <text x="64" y="214" fill="#Jane"/>
+  <text x="64" y="214" fill="#liches"/>
+  <text x="64" y="214" fill="# Ring"/>
+  <text x="64" y="214" fill="# ders"/>
+  <text x="64" y="214" fill="#lish"/>
+  <text x="64" y="214" fill="#caf릭"/>
+  <text x="64" y="214" fill="#roch"/>
+  <text x="64" y="214" fill="#ilho"/>
+  <text x="64" y="214" fill="#囖"/>
+  <text x="64" y="214" fill="# victoria"/>
+  <text x="64" y="214" fill="#bekiston"/>
+  <text x="64" y="214" fill="# Tarr"/>
+  <text x="64" y="214" fill="# Inclus"/>
+  <text x="64" y="214" fill="#bird"/>
+  <text x="64" y="214" fill="#finder"/>
+  <text x="64" y="214" fill="#Fill"/>
+  <text x="64" y="214" fill="# laste"/>
+  <text x="64" y="214" fill="# Tarr"/>
+  <text x="64" y="214" fill="# Reyn"/>
+  <text x="64" y="214" fill="#ischer"/>
+  <text x="64" y="214" fill="#j"/>
+  <text x="64" y="214" fill="#eno"/>
+  <text x="64" y="214" fill="#p"/>
+  <text x="64" y="214" fill="#q"/>
+  <text x="64" y="214" fill="# hip"/>
+  <text x="64" y="214" fill="# tokens"/>
+  <text x="64" y="214" fill="#ly"/>
+  <text x="64" y="214" fill="#bug"/>
+  <text x="64" y="214" fill="#why"/>
+  <text x="64" y="214" fill="#son"/>
+  <text x="64" y="214" fill="#fal"/>
+  <text x="64" y="214" fill="#."/>
+  <text x="64" y="214" fill="#ead5e Magn"/>
+  <text x="64" y="214" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="23">Statistical Modelling • Machine Learning • Data Analysis</text>
+  <circle cx="68" cy="256" r="5" fill="#34d399"/>
+  <text x="83" y="263" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="18">Belgium • Open to Data Scientist &amp; Data Analyst opportunities</text>
+</svg>
