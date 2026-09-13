@@ -1,29 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Yassine Zeamari — Data Scientist</title>
-<desc id="desc">Data Scientist specialising in statistical modelling and machine learning.</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0%" stop-color="#071525"/>
-<stop offset="55%"-adherence="none"/>
-<stop offset="55%" stop-color="#102a43"/>
-<stop offset="100%" stop-color="#07525a"/>
-</linearGradient>
-<radialGradient id="glow" cx="82%" cy="32%" r="65%">
-<stop offset="0%" stop-color="#2dd4bf" stop-opacity=".28"/>
-<stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
-</radialGradient>
-</defs>
-<rect width="1200" height="300" rx="24" fill="url Kohl"/>
-<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="300" rx="24" fill="url(#glow)"/>
-<g fill="none" stroke="#5eead4" stroke-opacity=".20">
-<circle cx="1050" cy="50" r="115"/>
-<circle cx="1050" cy="50" r="175"/>
-<path d="M790 265 C860 205 905 245 965 193 S1080 195 1195 95"/>
-</g>
-<text x="62" y="112" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">YASSINE ZEAMARI</text>
-<text x="64" y="165" fill="#5eead4" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">DATA SCIENTIST</text>
-<text x="64" y="214" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="23">Statistical Modelling • Machine Learning • Data Analysis</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" rx="24" fill="#0b2239"/>
+<circle cx="1080" cy="40" r="180" fill="#0f766e" opacity="0.35"/>
+<path d="M790 265 C880 180 930 250 1000 180 S1110 190 1200 90" fill="none" stroke="#5eead4" stroke-width="3" opacity="0.35"/>
+<text x="62" y="112" fill="#f8fafc" font-family="Arial, sans-serif" font-size="54" font-weight="700">YASSINE ZEAMARI</text>
+<text x="64" y="165" fill="#5eead4" font-family="Arial, sans-serif" font-size="28" font-weight="700">DATA SCIENTIST</text>
+<text x="64" y="214" fill="#dbeafe" font-family="Arial, sans-serif" font-size="23">Statistical Modelling • Machine Learning • Data Analysis</text>
 <circle cx="68" cy="256" r="5" fill="#34d399"/>
-<text x="83" y="263" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="18">Belgium • Open to Data Scientist &amp; Data Analyst opportunities</text>
+<text x="83" y="263" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="18">Belgium • Open to Data Scientist &amp; Data Analyst opportunities</text>
 </svg>
