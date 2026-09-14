@@ -62,14 +62,6 @@ I turn complex data into clear, defensible decisions through model selection, va
   <a href="https://github.com/yassinedkk/LDAT2M"><strong>View the complete data-science portfolio →</strong></a>
 </p>
 
-## How I work
-
-1. Frame the question and define an appropriate target.
-2. Audit the data and guard against leakage.
-3. Establish an interpretable baseline.
-4. Compare models with reproducible validation.
-5. Communicate assumptions, uncertainty and business implications.
-
 ## Contact
 
 I am open to opportunities where statistical thinking and machine learning support real decisions.
