@@ -21,13 +21,26 @@ I turn complex data into clear, defensible decisions through model selection, va
 
 ## Technical toolkit
 
+**Programming & statistical software**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia">
+  <img src="https://img.shields.io/badge/SAS-1F6DA8?style=flat-square" alt="SAS">
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM SPSS">
+  <img src="https://img.shields.io/badge/JMP-00A3E0?style=flat-square" alt="JMP">
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB">
+</p>
+
+**Data science & development**
+
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Shiny-0099C6?style=flat-square&logo=posit&logoColor=white" alt="Shiny">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white" alt="Quarto">
 </p>
