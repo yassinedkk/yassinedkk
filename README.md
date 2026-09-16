@@ -53,12 +53,12 @@ I turn complex data into clear, defensible decisions through model selection, va
 
 | Project | What it demonstrates |
 |---|---|
-| [Dynamic Hedonic Price Indices](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/dynamic-hedonic-price-indices) | MSc thesis comparing Kalman and score-driven Student-t models for robust, time-varying price indices. |
-| [Insurance Claim Prediction](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/insurance-claim-prediction) | End-to-end predictive modelling for insurance risk, with evaluation and interpretable results. |
-| [Multimodal Heart-Risk Modelling](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/multimodal-heart-risk) | Integration of heterogeneous health data for cardiovascular-risk prediction. |
-| [Bayesian Hospital Visits](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/bayesian-hospital-visits) | Bayesian count modelling, uncertainty quantification and posterior interpretation. |
-| [K-means & DBSCAN Clustering](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/clustering-kmeans-dbscan) | Comparison of centroid- and density-based clustering with reproducible analysis. |
-| [Frequent Itemset Mining](https://github.com/yassinedkk/LDAT2M/tree/main/portfolio/frequent-itemset-mining) | Apriori and Eclat implementations tested on real transaction datasets. |
+| [Dynamic Hedonic Price Indices](https://github.com/yassinedkk/dynamic-hedonic-price-indices) | MSc thesis comparing Kalman and score-driven Student-t models for robust, time-varying price indices. |
+| [Insurance Claim Prediction](https://github.com/yassinedkk/insurance-claim-prediction) | End-to-end predictive modelling for insurance risk, with evaluation and interpretable results. |
+| [Multimodal Heart-Risk Modelling](https://github.com/yassinedkk/multimodal-heart-risk) | Integration of heterogeneous health data for cardiovascular-risk prediction. |
+| [Bayesian Hospital Visits](https://github.com/yassinedkk/bayesian-hospital-visits) | Bayesian count modelling, uncertainty quantification and posterior interpretation. |
+| [K-means & DBSCAN Clustering](https://github.com/yassinedkk/clustering-kmeans-dbscan) | Comparison of centroid- and density-based clustering with reproducible analysis. |
+| [Frequent Itemset Mining](https://github.com/yassinedkk/frequent-itemset-mining) | Apriori and Eclat implementations tested on real transaction datasets. |
 
 <p align="center">
   <a href="https://github.com/yassinedkk/LDAT2M"><strong>View the complete data-science portfolio →</strong></a>
