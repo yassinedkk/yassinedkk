@@ -60,8 +60,48 @@ I turn complex data into clear, defensible decisions through model selection, va
 | [K-means & DBSCAN Clustering](https://github.com/yassinedkk/clustering-kmeans-dbscan) | Comparison of centroid- and density-based clustering with reproducible analysis. |
 | [Frequent Itemset Mining](https://github.com/yassinedkk/frequent-itemset-mining) | Apriori and Eclat implementations tested on real transaction datasets. |
 
+## All projects
+
+### Statistics, time series & econometrics
+
+| Project | Focus |
+|---|---|
+| [Dynamic Hedonic Price Indices](https://github.com/yassinedkk/dynamic-hedonic-price-indices) | Kalman filtering and score-driven Student-t models for robust dynamic price indices. |
+| [Bayesian Hospital Visits](https://github.com/yassinedkk/bayesian-hospital-visits) | Bayesian count modelling, posterior inference and uncertainty quantification. |
+| [Nonparametric Variance Estimation](https://github.com/yassinedkk/nonparametric-variance-estimation) | Nonparametric statistical estimation and empirical evaluation. |
+| [Student BMI Mixed Models](https://github.com/yassinedkk/student-bmi-mixed-models) | Longitudinal analysis with linear mixed-effects models. |
+| [Wine Linear Models](https://github.com/yassinedkk/wine-linear-models) | Regression modelling, diagnostics and interpretation on wine data. |
+
+### Machine learning, risk & health
+
+| Project | Focus |
+|---|---|
+| [Insurance Claim Prediction](https://github.com/yassinedkk/insurance-claim-prediction) | End-to-end predictive modelling for insurance risk. |
+| [Insurance Claim Frequency](https://github.com/yassinedkk/insurance-claim-frequency) | Frequency modelling and actuarial risk analysis. |
+| [Multimodal Heart-Risk Modelling](https://github.com/yassinedkk/multimodal-heart-risk) | Multimodal data integration for cardiovascular-risk prediction. |
+| [K-means & DBSCAN Clustering](https://github.com/yassinedkk/clustering-kmeans-dbscan) | Comparison of centroid- and density-based clustering. |
+| [Wine Quality: PCA & KPCA](https://github.com/yassinedkk/wine-quality-pca-kpca) | Linear and nonlinear dimensionality reduction for wine-quality analysis. |
+| [Gesture Recognition](https://github.com/yassinedkk/gesture-recognition) | Classification and pattern recognition from gesture data. |
+
+### Data mining, AI & algorithms
+
+| Project | Focus |
+|---|---|
+| [Frequent Itemset Mining](https://github.com/yassinedkk/frequent-itemset-mining) | Apriori and Eclat implementations on transaction datasets. |
+| [Frequent Subtree Mining](https://github.com/yassinedkk/frequent-subtree-mining) | Pattern mining in structured tree data. |
+| [Chemical Elements Analysis](https://github.com/yassinedkk/chemical-elements-analysis) | Exploratory and statistical analysis of chemical-element data. |
+| [Markov Decision Processes](https://github.com/yassinedkk/markov-decision-processes) | Sequential decision-making and reinforcement-learning foundations. |
+| [Vectorized Autodiff Transformer](https://github.com/yassinedkk/vectorized-autodiff-transformer) | Vectorized automatic differentiation and transformer implementation. |
+
+### Quantitative finance & portfolio archive
+
+| Project | Focus |
+|---|---|
+| [Binance Market Analysis](https://github.com/yassinedkk/binance) | Cryptocurrency market-data collection and quantitative analysis. |
+| [Complete Data Science Portfolio](https://github.com/yassinedkk/LDAT2M) | Central archive containing reports, notebooks and academic projects. |
+
 <p align="center">
-  <a href="https://github.com/yassinedkk/LDAT2M"><strong>View the complete data-science portfolio →</strong></a>
+  <a href="https://github.com/yassinedkk?tab=repositories"><strong>Browse all repositories →</strong></a>
 </p>
 
 ## Contact
