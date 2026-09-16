@@ -57,8 +57,8 @@ I turn complex data into clear, defensible decisions through model selection, va
 | [Insurance Claim Prediction](https://github.com/yassinedkk/insurance-claim-prediction) | End-to-end predictive modelling for insurance risk, with evaluation and interpretable results. |
 | [Multimodal Heart-Risk Modelling](https://github.com/yassinedkk/multimodal-heart-risk) | Integration of heterogeneous health data for cardiovascular-risk prediction. |
 | [Bayesian Hospital Visits](https://github.com/yassinedkk/bayesian-hospital-visits) | Bayesian count modelling, uncertainty quantification and posterior interpretation. |
-| [K-means & DBSCAN Clustering](https://github.com/yassinedkk/clustering-kmeans-dbscan) | Comparison of centroid- and density-based clustering with reproducible analysis. |
-| [Frequent Itemset Mining](https://github.com/yassinedkk/frequent-itemset-mining) | Apriori and Eclat implementations tested on real transaction datasets. |
+| [Markov Decision Processes](https://github.com/yassinedkk/markov-decision-processes) | Sequential decision-making, dynamic programming and reinforcement-learning foundations. |
+| [Chemical Elements Analysis](https://github.com/yassinedkk/chemical-elements-analysis) | Exploratory data analysis, statistical modelling and interpretation of chemical-element data. |
 
 ## All projects
 
